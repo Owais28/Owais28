@@ -26,7 +26,7 @@ I'm Owais Athar, a passionate Full Stack Developer with a knack for turning caff
 I'm always up for a coding adventure! Feel free to reach out:
 
 - 📧 Email: [owaisathar2882@gmail.com](mailto:owaisathar2882@gmail.com)
-- 💼 LinkedIn: [Owais Athar]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/owais-athar-28b9361ab/))
+- 💼 LinkedIn: [Owais Athar](https://www.linkedin.com/in/owais-athar-28b9361ab/)
 
 ## Grab a Virtual Coffee ☕
 
