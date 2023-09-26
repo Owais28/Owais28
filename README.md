@@ -4,7 +4,7 @@ Welcome to my coding playground! 👋 Explore the world of web and software deve
 
 ## Who Am I? 🤓
 
-I'm [Your Name], a passionate Full Stack Developer with a knack for turning caffeine ☕ into code. My mission is to craft digital experiences that amaze and inspire.
+I'm Owais Athar, a passionate Full Stack Developer with a knack for turning caffeine ☕ into code. My mission is to craft digital experiences that amaze and inspire.
 
 ## What I Do? 💻
 
